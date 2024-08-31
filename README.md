@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/Gnandal/product-preview-card-component-main)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Live Site URL: [Demo](https://gnandal.github.io/product-preview-card-component-main/)
 
 ## My process
 
